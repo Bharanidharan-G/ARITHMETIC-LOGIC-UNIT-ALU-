@@ -30,3 +30,7 @@ DELIVERABLES:
   ✅ ALU Verilog/VHDL Code
   ✅ Testbench for Verification
   ✅ Simulation Report
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/bfc8f408-2027-43e5-8c38-17ba60a91308)
